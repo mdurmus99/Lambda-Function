@@ -1,0 +1,1 @@
+# Takes-Snapshot-Lambda-Function
