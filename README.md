@@ -16,5 +16,4 @@ You can customize this example function according to your needs:
 
 **{'Name': 'tag-key', 'Values': ['backup', 'Backup']}** to specify different tags.
 You can customize the retention time of snapshots with the Retention tag.
-# Warning.
-This sample code is only a starting point and should be tested as needed before using it in a production environment.
+
